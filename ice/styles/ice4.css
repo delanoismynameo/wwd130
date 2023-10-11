@@ -1,0 +1,10 @@
+body{
+    width: 1000px;
+    background-color: #faa7c9;
+}
+
+.maincontent{
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+}
